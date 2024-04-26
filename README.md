@@ -1,16 +1,6 @@
 # Lifish+HalfKP
 
-Lifish+HalfKP is a Light chess engine based on StockFish and the evaluation based on [efficiently updateable neural networks](https://github.com/EarlyEdition/HalfKP).
-
-List of removed features in Lifish:
-
-* Syzygy
-
-* Skill Level
-
-* ...
-
-###
+Lifish NNUE is a light chess engine derived from Stockfish and the evaluation based on efficiently updateable neural networks.
 
 
 ## UCI parameters
